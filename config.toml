@@ -1,0 +1,4 @@
+baseURL = 'http://benhays.org/'
+languageCode = 'en-us'
+title = 'Ben Hays'
+theme = "hugo-coder"
